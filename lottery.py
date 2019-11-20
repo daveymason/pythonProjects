@@ -12,3 +12,5 @@ for i in range (0,7) :
 lotto_numbers.sort()
 
 print(lotto_numbers)
+
+input('Press ENTER to exit')

@@ -42,3 +42,5 @@ y = 50
 app = App(image_files, x, y, delay)
 app.show_slides()
 app.run()
+
+input('Press ENTER to exit')
